@@ -1,5 +1,5 @@
 # CompTIA Security+ SY0-701 — Master Study Operations Plan
-**50-Day Campaign | Start to Certification**
+**49-Day Campaign | May 11 → June 29, 2026**
 
 ---
 
@@ -8,7 +8,8 @@
 | Item | Detail |
 |---|---|
 | Exam | CompTIA Security+ SY0-701 |
-| Target Date | 50 days from start |
+| Start Date | May 11, 2026 |
+| Exam Date | **June 29, 2026** |
 | Daily Minimum | 2 hours study + 20 min review |
 | Goal | Pass with 800+ / 900 |
 
@@ -48,18 +49,18 @@
 
 ---
 
-## 50-Day Study Schedule
+## 49-Day Study Schedule
 
-| Days | Focus |
-|---|---|
-| 1–8 | Domain 1.0 — General Security Concepts |
-| 9–18 | Domain 2.0 — Threats, Vulnerabilities & Mitigations |
-| 19–26 | Domain 3.0 — Security Architecture |
-| 27–36 | Domain 4.0 — Security Operations |
-| 37–42 | Domain 5.0 — Security Program Management & Oversight |
-| 43–46 | Full practice exams (Dion × 3, Messer × 1) |
-| 47–49 | Weak-domain remediation based on exam scores |
-| Day 50 | Light review, rest, exam day |
+| Days | Dates | Focus |
+|---|---|---|
+| 1–8 | May 11 – May 18 | Domain 1.0 — General Security Concepts |
+| 9–18 | May 19 – May 28 | Domain 2.0 — Threats, Vulnerabilities & Mitigations |
+| 19–26 | May 29 – June 5 | Domain 3.0 — Security Architecture |
+| 27–36 | June 6 – June 15 | Domain 4.0 — Security Operations |
+| 37–42 | June 16 – June 21 | Domain 5.0 — Security Program Management & Oversight |
+| 43–46 | June 22 – June 25 | Full practice exams (Dion × 3, Messer × 1) |
+| 47–49 | June 26 – June 28 | Weak-domain remediation based on exam scores |
+| Day 49 | **June 29** | Light review, rest, **EXAM DAY** |
 
 ---
 
