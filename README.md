@@ -1,5 +1,5 @@
 # SecurityPlus Coach
-**CompTIA Security+ SY0-701 — Personal Study System**
+**CompTIA Security+ SY0-701 — Study System**
 
 ---
 
@@ -19,8 +19,7 @@ SecurityPlus_Coach/
 ├── 4.0_Security_Operations/           # 28% of exam
 ├── 5.0_Security_Program_Management/   # 20% of exam
 ├── MASTER_SOP.md                      # 49-day study schedule & resources
-├── CAREER_PATH.md                     # Cybersecurity career roadmap
-└── CLAUDE_USAGE.md                    # AI-assisted study workflow
+└── CAREER_PATH.md                     # Cybersecurity career roadmap
 ```
 
 ---
@@ -69,7 +68,3 @@ Security+ is the first step toward:
 - OSCP certification (target: 2028–2029)
 
 See `CAREER_PATH.md` for the full roadmap.
-
----
-
-**Student:** Peter Xia | UCR CSBA 2027 | xxia013@ucr.edu
